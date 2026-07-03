@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+results/*.png
+results/*.csv
+results/*.json
+!results/.gitkeep
+data/mimic-iv-demo/
+.DS_Store
